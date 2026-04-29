@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "name": "政协湖滨小组委员工作室",
+    "leader": "查靖",
+    "address": "上城区羊血弄10号",
+    "star": 5,
+    "starRating": "五星",
+    "desc": "湖滨委员工作室搭建商圈\"晴雨议事厅\"，发挥企业委员作用，由商圈企业代表担任\"轮值议事长\"，积极推进商圈公共事务民主协商。领办商圈健康、金融、管理、教育、法律五大服务项目。",
+    "image": "img/studios-showcase/studio-00.webp"
+  },
+  {
+    "id": 2,
+    "name": "政协清波小组委员工作室",
+    "leader": "徐洁",
+    "address": "上城区清波街道蔡官巷35号三楼",
+    "star": 5,
+    "starRating": "五星",
+    "desc": "工作室创新\"1+6+3\"工作模式，依托\"清波话坊\"民情联络站开展协商议事等活动215场，收集意见建议1700余条，\"AI小清数字社工\"荣获杭州市政协民生议事堂精品协商案例。",
+    "image": "img/studios-showcase/studio-01.webp"
+  },
+  {
+    "id": 3,
+    "name": "政协小营小组委员工作室",
+    "leader": "冷晓辉",
+    "address": "杭州市上城区建国南路98号小营街道办事处",
+    "star": 5,
+    "starRating": "五星",
+    "desc": "践行\"委员说·委员做\"，锚定\"两个先行\"目标，领跑\"基层自治\"之路，持续擦亮\"最美红巷\"民生治理品牌。",
+    "image": "img/studios-showcase/studio-02.webp"
+  },
+  {
+    "id": 4,
+    "name": "政协望江小组委员工作室",
+    "leader": "毛静波",
+    "address": "上城区翡翠海岸1幢6号",
+    "star": 5,
+    "starRating": "五星",
+    "desc": "“疗愈经济分享体验会”活动",
+    "image": "img/studios-showcase/studio-03.webp"
+  },
+  {
+    "id": 5,
+    "name": "政协南星小组委员工作室",
+    "leader": "游广敏",
+    "address": "上城区目术塘创意园2号楼7楼",
+    "star": 5,
+    "starRating": "五星",
+    "desc": "市区县三级联动，召开“投早投小投科技”专题协商会",
+    "image": "img/studios-showcase/studio-04.webp"
+  },
+  {
+    "id": 6,
+    "name": "紫阳街道“三一”委员工作室",
+    "leader": "王盈",
+    "address": "上城区金钗袋巷79号",
+    "star": 5,
+    "starRating": "五星",
+    "desc": "位于新中国首个居民委员会诞生地，厚植协商民主基因。秉持\"不建机构建机制\"原则，构建\"一核多点、全域覆盖\"的实体阵地网络。建强党建引领、品牌赋能、协商议事三大工作机制。",
+    "image": "img/studios-showcase/studio-05.webp"
+  },
+  {
+    "id": 7,
+    "name": "闸弄口街道“基层治理”委员工作室",
+    "leader": "祝文雅",
+    "address": "上城区闸弄口街道党群服务中心",
+    "star": 5,
+    "starRating": "五星",
+    "desc": "开展“美丽大讲堂”活动",
+    "image": "img/studios-showcase/studio-06.webp"
+  },
+  {
+    "id": 8,
+    "name": "政协凯旋小组委员工作室",
+    "leader": "金志伟",
+    "address": "上城区凤起东路127号",
+    "star": 5,
+    "starRating": "五星",
+    "desc": "残疾人之家的义卖活动",
+    "image": "img/studios-showcase/studio-07.webp"
+  },
+  {
+    "id": 9,
+    "name": "采荷街道“幸福19”委员工作室",
+    "leader": "赵丹晨",
+    "address": "上城区采荷街道洁莲社区",
+    "star": 5,
+    "starRating": "五星",
+    "desc": "工作室构建\"1+6+16+N\"协商矩阵，创设\"1731\"民生议事工作法，围绕老旧小区改造、新就业群体权益保障等关切常态化开展协商活动。助力钱江新城总部经济、夜经济高质量发展。",
+    "image": "img/studios-showcase/studio-08.webp"
+  },
+  {
+    "id": 10,
+    "name": "政协四季青小组委员工作室",
+    "leader": "李岗",
+    "address": "上城区民心路280号平安金融中心B座3楼",
+    "star": 5,
+    "starRating": "五星",
+    "desc": "始终以\"精准履职强担当、深度协商聚合力\"为导向，围绕中央创新区建设，推动产业社区迭代升级。多次获评\"五星级委员工作室\"。",
+    "image": "img/studios-showcase/studio-09.webp"
+  },
+  {
+    "id": 11,
+    "name": "政协笕桥小组委员工作室",
+    "leader": "阮骏",
+    "address": "上城区笕桥街道政协会议室",
+    "star": 5,
+    "starRating": "五星",
+    "desc": "爱馨文化公益委员工作室",
+    "image": "img/studios-showcase/studio-10.webp"
+  },
+  {
+    "id": 12,
+    "name": "政协彭埠小组委员工作室",
+    "leader": "任渊",
+    "address": "上城区S2杭甬高速附近罗家老宅",
+    "star": 5,
+    "starRating": "五星",
+    "desc": "发扬重视家庭教育优良传统，助力孩子健康快乐成长，举办亲子运动会",
+    "image": "img/studios-showcase/studio-11.webp"
+  },
+  {
+    "id": 13,
+    "name": "政协九堡小组委员工作室",
+    "leader": "胡建清",
+    "address": "上城区九乔街与杭乔路交叉口",
+    "star": 5,
+    "starRating": "五星",
+    "desc": "工作室委员与社区居民代表召开民生座谈会，听取居民对小区提升、菜场改造、停车难等问题的意见建议",
+    "image": "img/studios-showcase/studio-12.webp"
+  },
+  {
+    "id": 14,
+    "name": "政协丁兰小组委员工作室",
+    "leader": "倪勇卿",
+    "address": "上城区临丁路699号丁丁兰街道办事处5号楼4楼",
+    "star": 5,
+    "starRating": "五星",
+    "desc": "关于社区居民空调安装纠纷的专项协商会",
+    "image": "img/studios-showcase/studio-13.webp"
+  },
+  {
+    "id": 15,
+    "name": "张瑞旭委员工作室",
+    "leader": "张瑞旭",
+    "address": "上城区凯旋街道凯益荟208室",
+    "star": 5,
+    "starRating": "五星",
+    "desc": "举办委员工作室跨代共融日活动，推动跨代交流与文化传承。",
+    "image": "img/studios-showcase/studio-14.webp"
+  },
+  {
+    "id": 16,
+    "name": "缪渭川委员工作室",
+    "leader": "缪渭川",
+    "address": "上城区凯旋街道南肖埠社区",
+    "star": 5,
+    "starRating": "五星",
+    "desc": "传承国粹，践行公益，走进社区开展健康宣教义诊活动",
+    "image": "img/studios-showcase/studio-15.webp"
+  },
+  {
+    "id": 17,
+    "name": "虞军红委员工作室",
+    "leader": "虞军红",
+    "address": "上城区运新花苑运新社区",
+    "star": 5,
+    "starRating": "五星",
+    "desc": "国际艺术交流送中国“福”",
+    "image": "img/studios-showcase/studio-16.webp"
+  },
+  {
+    "id": 18,
+    "name": "商业服务智库委员工作室",
+    "leader": "姚华俊",
+    "address": "上城区新业路8号UDC时代大厦3楼",
+    "star": 5,
+    "starRating": "五星",
+    "desc": "两会期间迎新送福、送春联",
+    "image": "img/studios-showcase/studio-17.webp"
+  },
+  {
+    "id": 19,
+    "name": "俞富康宋韵文化委员工作室",
+    "leader": "俞富康",
+    "address": "上城区凯旋路151号",
+    "star": 5,
+    "starRating": "五星",
+    "desc": "凝聚社会公益慈善之心，开展\"让每个孩子像花儿一样绽放\"主题论坛，弘扬宋韵文化。",
+    "image": "img/studios-showcase/studio-18.webp"
+  },
+  {
+    "id": 20,
+    "name": "爱馨文化公益委员工作室",
+    "leader": "杨洁",
+    "address": "上城区南山路198号（杭州书房）",
+    "star": 5,
+    "starRating": "五星",
+    "desc": "党建引领，做好点滴惠民小事，走访慰问九和人家独居老人",
+    "image": "img/studios-showcase/studio-19.webp"
+  },
+  {
+    "id": 21,
+    "name": "“文润童心”委员工作室",
+    "leader": "周媛媛",
+    "address": "杭州市上城区清波街道府学巷8号",
+    "star": 5,
+    "starRating": "五星",
+    "desc": "召开健康普及专题座谈会",
+    "image": "img/studios-showcase/studio-20.webp"
+  },
+  {
+    "id": 22,
+    "name": "“老爸好商量”委员工作室",
+    "leader": "俞富根",
+    "address": "上城区四宜路180号",
+    "star": 5,
+    "starRating": "五星",
+    "desc": "举行“乡村音乐节”，用实用管用的好点子，助力乡村振兴",
+    "image": "img/studios-showcase/studio-21.webp"
+  },
+  {
+    "id": 23,
+    "name": "侨见未来委员工作室",
+    "leader": "胡晓敏",
+    "address": "上城区兰巷101-104号（山蜂书房）",
+    "star": 5,
+    "starRating": "五星",
+    "desc": "开展“茶韵议事”交流活动",
+    "image": "img/studios-showcase/studio-22.webp"
+  },
+  {
+    "id": 24,
+    "name": "宋韵老字号委员工作室",
+    "leader": "屠明珏",
+    "address": "上城区江城路865号满江红大酒店二楼杭帮菜文化展览馆",
+    "star": 5,
+    "starRating": "五星",
+    "desc": "“小小政协委员”青少年模拟政协活动",
+    "image": "img/studios-showcase/studio-23.webp"
+  },
+  {
+    "id": 25,
+    "name": "幸福邻里委员工作室",
+    "leader": "尹兆青",
+    "address": "上城区闸弄口街道红梅社区",
+    "star": 5,
+    "starRating": "五星",
+    "desc": "委员工作室",
+    "image": "img/studios-showcase/studio-24.webp"
+  },
+  {
+    "id": 26,
+    "name": "大健康委员工作室",
+    "leader": "谢慧淼",
+    "address": "上城区凯旋路与凯林巷交叉口凯西社区",
+    "star": 4,
+    "starRating": "四星",
+    "desc": "",
+    "image": "img/studios-showcase/studio-25.webp"
+  },
+  {
+    "id": 27,
+    "name": "大成委员工作室",
+    "leader": "陈磊",
+    "address": "上城区钱江路1366号华润大厦A座18层",
+    "star": 4,
+    "starRating": "四星",
+    "desc": "",
+    "image": "img/studios-showcase/studio-26.webp"
+  },
+  {
+    "id": 28,
+    "name": "“邻聚力”委员工作室",
+    "leader": "余丹凤",
+    "address": "上城区凤起东路203号中豪五福天地商业中心B座2幢21层",
+    "star": 4,
+    "starRating": "四星",
+    "desc": "",
+    "image": "img/studios-showcase/studio-27.webp"
+  },
+  {
+    "id": 29,
+    "name": "东港社区委员工作室",
+    "leader": "蒋平樑",
+    "address": "上城区笕桥街道东港社区",
+    "star": 4,
+    "starRating": "四星",
+    "desc": "",
+    "image": "img/studios-showcase/studio-28.webp"
+  },
+  {
+    "id": 30,
+    "name": "建和社区委员工作室",
+    "leader": "周建卫",
+    "address": "上城区彭埠街道建和社区",
+    "star": 4,
+    "starRating": "四星",
+    "desc": "",
+    "image": "img/studios-showcase/studio-29.webp"
+  },
+  {
+    "id": 31,
+    "name": "杨柳郡社区委员工作室",
+    "leader": "王鹏",
+    "address": "上城区九和路660号绿城杨柳郡",
+    "star": 4,
+    "starRating": "四星",
+    "desc": "",
+    "image": "img/studios-showcase/studio-30.webp"
+  },
+  {
+    "id": 32,
+    "name": "长睦幸福湾委员工作室",
+    "leader": "龚云玉",
+    "address": "上城区丁兰街道长睦苑社区",
+    "star": 4,
+    "starRating": "四星",
+    "desc": "",
+    "image": "img/studios-showcase/studio-31.webp"
+  },
+  {
+    "id": 33,
+    "name": "同心·共富委员工作室",
+    "leader": "吴韵",
+    "address": "上城区丁兰街道皋城村文化礼堂",
+    "star": 4,
+    "starRating": "四星",
+    "desc": "",
+    "image": "img/studios-showcase/studio-32.webp"
+  },
+  {
+    "id": 34,
+    "name": "乐动新声委员工作室",
+    "leader": "俞宙",
+    "address": "上城区金峰大厦1503室",
+    "star": 4,
+    "starRating": "四星",
+    "desc": "",
+    "image": "img/studios-showcase/studio-33.webp"
+  },
+  {
+    "id": 35,
+    "name": "茗荟聚智委员工作室",
+    "leader": "王容峰",
+    "address": "上城区大井巷30-4号",
+    "star": 4,
+    "starRating": "四星",
+    "desc": "",
+    "image": "img/studios-showcase/studio-34.webp"
+  },
+  {
+    "id": 36,
+    "name": "上城区政协无党派界别委员工作室",
+    "leader": "凌栋",
+    "address": "上城区凯旋路247-1号4楼",
+    "star": 4,
+    "starRating": "四星",
+    "desc": "",
+    "image": "img/studios-showcase/studio-35.webp"
+  },
+  {
+    "id": 37,
+    "name": "上城区政协工会界别委员工作室",
+    "leader": "蔡肇颖",
+    "address": "上城区工人文化宫（太平门直街458号）",
+    "star": 4,
+    "starRating": "四星",
+    "desc": "",
+    "image": "img/studios-showcase/studio-36.webp"
+  },
+  {
+    "id": 38,
+    "name": "上城区政协社会福利和保障界别委员工作室",
+    "leader": "吴国庆",
+    "address": "上城区凯旋路125号（特有爱·幸福体验馆）",
+    "star": 4,
+    "starRating": "四星",
+    "desc": "",
+    "image": "img/studios-showcase/studio-37.webp"
+  },
+  {
+    "id": 39,
+    "name": "有意思委员工作室",
+    "leader": "方晓阳",
+    "address": "上城区复兴南街130号",
+    "star": 4,
+    "starRating": "四星",
+    "desc": "",
+    "image": "img/studios-showcase/studio-38.webp"
+  },
+  {
+    "id": 40,
+    "name": "春泥委员工作室",
+    "leader": "沈春妮",
+    "address": "上城区采荷路34号杭州市上城区社会组织服务中心5楼",
+    "star": 4,
+    "starRating": "四星",
+    "desc": "",
+    "image": "img/studios-showcase/studio-39.webp"
+  },
+  {
+    "id": 41,
+    "name": "两岸一家亲委员工作室",
+    "leader": "陆雯",
+    "address": "上城区解放路189号-2",
+    "star": 4,
+    "starRating": "四星",
+    "desc": "",
+    "image": "img/studios-showcase/studio-40.webp"
+  },
+  {
+    "id": 42,
+    "name": "“视觉之思”委员工作室",
+    "leader": "何晓菲",
+    "address": "上城区虎玉路16-18号",
+    "star": 4,
+    "starRating": "四星",
+    "desc": "",
+    "image": "img/studios-showcase/studio-41.webp"
+  },
+  {
+    "id": 43,
+    "name": "“育共体 阳光行”委员工作室",
+    "leader": "王梦婷",
+    "address": "上城区景芳三区58幢新社区邻里中心",
+    "star": 3,
+    "starRating": "三星",
+    "desc": "",
+    "image": "img/studios-showcase/studio-42.webp"
+  },
+  {
+    "id": 44,
+    "name": "非遗委员工作室",
+    "leader": "胡志强",
+    "address": "上城区大井巷55号",
+    "star": 3,
+    "starRating": "三星",
+    "desc": "",
+    "image": "img/studios-showcase/studio-43.webp"
+  },
+  {
+    "id": 45,
+    "name": "乐医汇委员工作室",
+    "leader": "潘乐屹",
+    "address": "上城区同协路1279号西子智慧产业园8号楼401室（B电梯）",
+    "star": 3,
+    "starRating": "三星",
+    "desc": "",
+    "image": "img/studios-showcase/studio-44.webp"
+  },
+  {
+    "id": 46,
+    "name": "全民阅读委员工作室",
+    "leader": "赵群伟",
+    "address": "上城区中山中路6号",
+    "star": 3,
+    "starRating": "三星",
+    "desc": "",
+    "image": "img/studios-showcase/studio-45.webp"
+  },
+  {
+    "id": 47,
+    "name": "健康九久委员工作室",
+    "leader": "李祖胜",
+    "address": "上城区九堡街道蓝桥卫生服务站",
+    "star": 0,
+    "starRating": "",
+    "desc": "",
+    "image": "img/studios-showcase/studio-46.webp"
+  },
+  {
+    "id": 48,
+    "name": "智汇钱潮委员工作室",
+    "leader": "沈波",
+    "address": "上城区小院书房",
+    "star": 0,
+    "starRating": "",
+    "desc": "",
+    "image": "img/studios-showcase/studio-47.webp"
+  },
+  {
+    "id": 49,
+    "name": "环境资源和农业界别委员工作室",
+    "leader": "熊义勤",
+    "address": "浙江大学华家池校区新农村杂志3楼；杭州市上城区城星路中天国开大厦19楼",
+    "star": 0,
+    "starRating": "",
+    "desc": "",
+    "image": "img/studios-showcase/studio-48.webp"
+  },
+  {
+    "id": 50,
+    "name": "漱玉集委员工作室",
+    "leader": "王盈",
+    "address": "上城区紫阳街道闻潮路77号",
+    "star": 0,
+    "starRating": "",
+    "desc": "",
+    "image": "img/studios-showcase/studio-49.webp"
+  }
+]
